@@ -411,8 +411,8 @@ section.nosotros .content {
   .inicio .front .product:nth-child(4) { display: none; }
   
   .inicio .design.left .back{
-    mask-image: url("./assets/svg/back_squares_2.svg");
-    -webkit-mask-image: url("./assets/svg/back_squares_2.svg");
+    mask-image: url("../assets/svg/back_squares_2.svg");
+    -webkit-mask-image: url("../assets/svg/back_squares_2.svg");
   }
   /* #endregion Inicio */
 
