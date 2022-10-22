@@ -1,6 +1,6 @@
 # Website Static / Landing Page - Home Kit
 
-![HomeKit] (/assets/image/logo_500x500.png)
+![Home Kit](/assets/image/logo_500x500.png?raw=true "Brand Home Kit")
 
 Realicé éste proyecto usando **HTML y CSS puro**, sin frameworks ni preprocesadores, y una pizca de JavaScript 👨‍💻.
 
