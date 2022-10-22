@@ -492,16 +492,25 @@ section.nosotros .content {
     grid-column: 1; grid-row: 4;
   }
 
+  .contacto .header { gap: 1rem; }
+
   .contacto .wrapper form {
     width: 100%;
-    min-width: 25rem;
+    min-width: initial;
+
   }
 
-  /* .contacto .wrapper > .medios {
-    display: flex; gap: .5rem;
-    flex-direction: column;
-    justify-content: center;
-  } */
+  .contacto form .content input,
+  .contacto form .content select,
+  .contacto form .content textarea {
+    padding: 1.2rem .8rem;
+    width: 100%;
+  }
+
+  .contacto .wrapper > .head,
+  .contacto .wrapper > .medios {
+    width: min-content;
+  }
   /* #endregion Contacto */
   
 }
